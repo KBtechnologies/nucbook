@@ -7,10 +7,10 @@ A modular &amp; open design 13" Notebook that can be customized and upgraded to 
 
 ###
 ### Reduce eWaste
-##### When you upgrade a Desktop, even if you completely replace CPU, Mainboard, RAM, Storage, GPU and Coolers, you don't have to throw away your perfectly-fine case and power supply and espechally not Screen, Mouse, Keyboard and Speakers.
+##### When you upgrade a Desktop, even if you completely replace CPU, Mainboard, RAM, Storage, GPU and Coolers, you don't have to throw away your perfectly-fine case and power supply and especially not Screen, Mouse, Keyboard and Speakers.
 ###### So why do we accept that on Laptops?
 Systems can and should be repairable as well as upgradeable.
-- Shure you may have some constraints in terms of volume and component dependencies as well as requirements, but aside from that, there isn't any reason you can't use your decades old and beloved case anymore.
+- Sure you may have some constraints in terms of volume and component dependencies as well as requirements, but aside from that, there isn't any reason you can't use your decades old and beloved case anymore.
 
 ###
 ### Be an Open Standard
@@ -18,7 +18,7 @@ Systems can and should be repairable as well as upgradeable.
 Some Single-Vendor & single-Provider Solutions like the Framework Laptop can work, but they make consumers depend on said company keeping their promises.
 - Apple for example has broken commitment promises for Upgrades several times on their Mac Pro line of machines.
 ##### The Success of the PC as a Platform is solely based upon it's openness, with at least two manufacturers for every component to choose from.
-Only Open Standards that are royality-free or at least very affordable to license gained traction and got adopted, whereas Single-Vendor & single-Provider options were quickly obsoleted, replaced by better & opener alternatives or never caught on.
+Only Open Standards that are royalty-free or at least very affordable to license gained traction and got adopted, whereas Single-Vendor & single-Provider options were quickly obsoleted, replaced by better & opener alternatives or never caught on.
 - This includes "Microchannel" as a Bus among many others which got  quickly obsoleted by PCI and that got suceeded by PCI Express...
 
 ###
@@ -36,7 +36,7 @@ Technology Progresses, and so it stands to reason that people may need to upgrad
 
 ###
 ### Be affordable
-While it may be tempting to go Ultra high-End, only a systems that are affordable to everyone and every business will see the necessary amount of adoption required to get Longterm Multi-Vendor & Multi-Provider support.
+While it may be tempting to go Ultra high-End, only systems that are affordable to everyone and every business will see the necessary amount of adoption required to get Longterm Multi-Vendor & Multi-Provider support.
 - Just like the Desktop PC offers everything from sub-€100 boxes with new-old-stock tablet SoC's and cheap [refurb] Office machines to eyewateringly expensive Workstations and Servers that can cost 6+ digits before taxes.
 ##### The fact that one can basically "grow" a Desktop PC like a plant has yet to be copied in Laptops.
 
