@@ -1,11 +1,10 @@
+![NUCbook_Logo.png](./media/logo/NUCbook_Logo.png)
 # NUCbook
 A modular &amp; open design 13" Notebook that can be customized and upgraded to fit user's needs
 
 ---
-
 ## Goals
 
-###
 ### Reduce eWaste
 ##### When you upgrade a Desktop, even if you completely replace CPU, Mainboard, RAM, Storage, GPU and Coolers, you don't have to throw away your perfectly-fine case and power supply and espechally not Screen, Mouse, Keyboard and Speakers.
 ###### So why do we accept that on Laptops?
@@ -29,6 +28,7 @@ And while it's good to find a 1st party option, no manufacturer of laptops will 
   - While it would be best if one could source every single IC and offer them as well, that's not feasible if people don't have the skillset to do the repairs or if it's financially not feasible to pay someone to do the fix.
     - Documentation should however be accessible and allow those patient enought to do so anyway!
 
+###
 ### Be Upgradeable
 Technology Progresses, and so it stands to reason that people may need to upgrade parts of a system to keep up with their demand for more RAM, Storage or Computational Power.
 - This may necessitate swapping the Mainboard since a lot of mobile & embedded chips ain't available in a socketed form factor anymore.
@@ -48,3 +48,19 @@ Simple things that seem to be forgotten and extraordinary but shouldn't be.
 - Fully removeable Storage
 ##### Basically, "Make Laptops good again!"
 
+---
+## Acknowledgements
+
+### Products
+#### [Framework Laptop](https://en.wikipedia.org/wiki/Framework_Computer#Framework_Laptop_13)
+- AFAIK the most repairable [Ultrabook](https://en.wikipedia.org/wiki/Ultrabook) currently in production and for sale.
+  - If you're looking for a commercial product that you can just buy, check out [Framework](https://frame.work).
+#### [VIA OpenBook](https://en.wikipedia.org/wiki/VIA_OpenBook)
+- At it's core it's just a [8,9" Netbook](https://en.wikipedia.org/wiki/Netbook) but [VIA Technologies](https://en.wikipedia.org/wiki/VIA_Technologies) did opensource it's CAD models and specs.
+  - It's mostly a [reference design](https://web.archive.org/web/20080529021814/http://www.via.com.tw/en/resources/pressroom/pressrelease.jsp?press_release_no=2347) aimed at maximizing [flexibility for OEMs](https://youtu.be/ZQxHyKbuYws?t=121).
+    - There's an [archived copy of that repo on GitHub](https://github.com/ArchiveCrew/via-openbook).
+  - Sadly it wasn't much of a commercial success despite  [having good specs at the time](https://youtu.be/ZQxHyKbuYws?t=28)...
+
+### Groups
+#### NB51
+- They are known to make obscure and [hard to come by](https://www.reddit.com/r/thinkpad/comments/m2nh5q/where_to_buy_x201_nb51_mainboard/) upgrade mainboards with new parts for older [ThinkPad](https://en.wikipedia.org/wiki/ThinkPad) laptops, mostly if only [X-Series](https://en.wikipedia.org/wiki/ThinkPad_X_series) devices like the [X201](https://en.wikipedia.org/wiki/ThinkPad_X_series#X201,_X201i_and_X201s).

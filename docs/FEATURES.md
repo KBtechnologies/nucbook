@@ -1,3 +1,5 @@
+![NUCbook_Logo.png](./.././media/logo/NUCbook_Logo.png)
+
 # NUCbook
 ## Features List
 
