@@ -8,7 +8,7 @@
 ### Must - Haves
 ###
 #### Use UCFF or "NUC" standard mainboards
-As the Project Name implies, this design should use the smallest standalone Mainboard Form Factor as it's base.
+As the Project Name implies, this design should use the smallest standalone Mainboard Form Factor as its base.
 - OFC it may also accept other form factors with adaptor brackets or similar options, but the UCFF form factor standardizes the most important aspects to make systems integration even possible.
   - Dimensions and Positions of all critical Parts
     - Mainboard
@@ -35,7 +35,7 @@ As devices may have to handle sensitive data, being able to just unplug the SSD 
 - So much that [even Microsoft had to budge to buyers demand and make the SSD in the Surface Laptop 3 removeable](https://youtu.be/OpXizbzeRoc?t=49)!
 ###
 #### Use of standard parts wherever possible
-The least custom parts are needed, the more the NUCbook has a chance of becoming a standard and establish it's own ecosystem.
+The least custom parts are needed, the more the NUCbook has a chance of becoming a standard and establish its own ecosystem.
 - It also reduces eWaste, as standardization will make reusing parts and upgrading a machine over time much easier.
 ##
 
